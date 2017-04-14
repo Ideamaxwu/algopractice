@@ -1,0 +1,4 @@
+Flume:
+1. setup JAVA_HOME
+2. configure source, channel, sink
+3. start flume
