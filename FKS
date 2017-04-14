@@ -2,3 +2,16 @@ Flume:
 1. setup JAVA_HOME
 2. configure source, channel, sink
 3. start flume
+
+Kafka:
+0. add flume-kafka plugin
+1. start Zookeeper
+2. start Kafka
+3. create topic
+4. create producer
+5. create consumer
+
+Spark:
+1. submit a job and make it run
+
+Data -> source -> channel -> [sink][producer] -> consumer -> streaming -> Result
