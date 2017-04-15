@@ -1,3 +1,5 @@
+Data -> source -> channel -> [sink][producer] -> consumer -> streaming-computing -> Hbase
+
 Flume:
 1. setup JAVA_HOME
 2. configure source, channel, sink
@@ -14,4 +16,5 @@ Kafka:
 Spark:
 1. submit a job and make it run
 
-Data -> source -> channel -> [sink][producer] -> consumer -> streaming -> Result
+Hbase:
+1. store results
