@@ -13,8 +13,8 @@ Kafka:
 4. create producer
 5. create consumer
 
-Spark:
+Spark[Flink, Samza, Storm]:
 1. submit a job and make it run
 
-Hbase:
+Hbase[Redis, MySQL]:
 1. store results
