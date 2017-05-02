@@ -18,3 +18,8 @@ Spark[Flink, Samza, Storm]:
 
 Hbase[Redis, MySQL]:
 1. store results
+
+
+More: 
+Alluxio (enables any application to interact with any data from any storage system at memory speed), 
+Zeppelin (is a web-based notebook that enables interactive data analytics).
